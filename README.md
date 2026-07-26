@@ -1,3 +1,3 @@
-# Data
-This is my first repository
+# Data-demo
+This is my first git repository
 Author - Rohit Gupta
